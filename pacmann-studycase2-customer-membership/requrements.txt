@@ -1,0 +1,8 @@
+## Installation Requirements
+To run this project, ensure you have Python installed along with the following library:
+
+- **tabulate**: This library is used for formatting tables in a readable way.
+
+You can install it using pip. Run the following command in your terminal or command prompt:
+```bash
+pip install tabulate
